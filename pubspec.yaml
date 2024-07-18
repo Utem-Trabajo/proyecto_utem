@@ -1,0 +1,40 @@
+name: proyecto_utem
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_sign_in: ^6.2.1
+  firebase_core: ^3.1.0
+  firebase_auth: ^5.1.0
+  cloud_firestore: 
+  intl: ^0.19.0
+  video_player:
+  dio:
+  logger:
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  change_app_package_name: ^1.1.0
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: 'assets/logo.jpeg'
+flutter:
+
+  assets:
+    - assets/
+
+  uses-material-design: true

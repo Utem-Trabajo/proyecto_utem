@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "517365773717",
+    "project_id": "proyectoutem-d83cb",
+    "storage_bucket": "proyectoutem-d83cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517365773717:android:495224130bdb993d06329c",
+        "android_client_info": {
+          "package_name": "com.proyectoutemm.proyectoutemm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517365773717-030mvm3mqotrfqpbqcaufllk6fjtjqj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyectoutemm.proyectoutemm",
+            "certificate_hash": "27f7df213035ef866280f5339510af5484cdebd3"
+          }
+        },
+        {
+          "client_id": "517365773717-lmaj61dt7hbph8tamaq4679k4ov8dmuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyectoutemm.proyectoutemm",
+            "certificate_hash": "d4fcf5444e56ad1e055d19875d784b3d28bf5ab7"
+          }
+        },
+        {
+          "client_id": "517365773717-o23ma5rm6oe5n6ck9o10fbu2q1n50cge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyectoutemm.proyectoutemm",
+            "certificate_hash": "6c936f4718747c16f51b9f62e57ad096018cee19"
+          }
+        },
+        {
+          "client_id": "517365773717-acfvuj6f1k178jpqveap2jbmu632fp57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvlMv3goYEt4GKE8hd4bRdHaagseyE3TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517365773717-acfvuj6f1k178jpqveap2jbmu632fp57.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517365773717-1f017vh3aqfdmjg8rml5rfhhrgccei1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proyectoUtem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
